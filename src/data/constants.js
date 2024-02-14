@@ -360,6 +360,19 @@ export const projects = [
     github: "https://github.com/Ashn20/React---Api-Fetch",
     webapp: "https://ashn20.github.io/React---Api-Fetch/",
   },
-  
+  {
+    id: 16,
+    title: "Profile Card - React Js",
+    description:
+      "Profile Card created using - React Js ",
+    image:
+    "https://i.ibb.co/ypq71t5/Profilecard-reactjs.jpg",
+    tags: ["React Js"],
+    category: "machine learning",
+    github: "https://github.com/Ashn20/ProfileCard---React-Js",
+    webapp: "https://ashn20.github.io/ProfileCard---React-Js/",
+  },
+
+
 ];
 
